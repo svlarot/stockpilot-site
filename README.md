@@ -1,14 +1,23 @@
 # StockPilot — website
 
-Public, GitHub-Pages-hosted home for the StockPilot mobile app's legal
-pages plus a tiny landing page. Three HTML files, one CSS file, one SVG
-favicon, zero JavaScript, zero third-party requests from the page itself.
+Public, GitHub-Pages-hosted landing page + Terms of Service for the
+StockPilot mobile app. Operated by **Bluenex** (a Philippine sole
+proprietorship registered with the DTI). Three HTML files, one CSS file,
+one SVG favicon, zero JavaScript, zero third-party requests from the page
+itself.
+
+**The privacy policy is hosted in a separate repo,
+[`svlarot/stockpilot-legal`](https://github.com/svlarot/stockpilot-legal),
+served at <https://svlarot.github.io/stockpilot-legal/>.** That repo is
+the canonical source for the privacy policy. This repo's `privacy.html`
+is a meta-refresh redirect to that URL so any old bookmark or external
+link still resolves cleanly.
 
 Live URLs:
 
 - Home: https://svlarot.github.io/stockpilot-site/
-- Privacy policy: https://svlarot.github.io/stockpilot-site/privacy.html
 - Terms of service: https://svlarot.github.io/stockpilot-site/terms.html
+- Privacy policy (canonical, separate repo): https://svlarot.github.io/stockpilot-legal/
 
 Support email used throughout: `support@bluenex.org`.
 
